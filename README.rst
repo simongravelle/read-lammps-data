@@ -12,3 +12,10 @@ Installation
 .. code-block:: bash
 
 	pip install .
+	
+Use
+---
+
+.. code-block:: python
+
+	from readlammps import ReadLammpsData
