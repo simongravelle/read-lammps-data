@@ -19,3 +19,4 @@ Use
 .. code-block:: python
 
 	from readlammps import ReadLammpsData
+	lammps_data = ReadLammpsData("data.lammps", verbose = False)
